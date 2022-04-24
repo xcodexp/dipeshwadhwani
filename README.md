@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @dipeshwadhwani
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in data science , machine learning
+- 🌱 I’m currently learning javascript , python and wordpress web devlopment
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta acc = dipeshwadh59
+- 📫 How to reach me insta acc = dipesh.wadhwani.59
+- 📘 I have completed courses of HTML , CSS , PYTHON 
 
 <!---
 dipeshwadhwani/dipeshwadhwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
